@@ -1,1 +1,6 @@
-이곳이 main이고 두번째 commit 입니다용 
+#include <stdio.h>
+
+int main()
+{
+    printf("test 용 코드");
+}
